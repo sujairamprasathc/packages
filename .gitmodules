@@ -7,3 +7,6 @@
 [submodule "Treaps"]
 	path = Treaps
 	url = https://github.com/sriram13k/Treaps.git
+[submodule "dsr"]
+	path = dsr
+	url = https://github.com/mek-x/dsr.git
