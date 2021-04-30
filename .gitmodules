@@ -4,3 +4,6 @@
 [submodule "DAA/Convex-Hull"]
 	path = DAA/Convex-Hull
 	url = https://github.com/turkmavisi/Convex-Hull.git
+[submodule "Treaps"]
+	path = Treaps
+	url = https://github.com/sriram13k/Treaps.git
