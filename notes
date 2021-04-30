@@ -1,0 +1,9 @@
+user_db
+user_id, passwd, name
+
+questions_db
+qid, question, opt1, opt2, opt3, opt4, crct_ans, tag
+
+test_db
+user_id, qid, time, opt_selected, flag
+
