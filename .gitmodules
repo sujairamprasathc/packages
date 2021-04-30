@@ -1,3 +1,6 @@
 [submodule "Desktop-Search-Engine"]
 	path = Desktop-Search-Engine
 	url = https://github.com/sujairamprasathc/Desktop-Search-Engine.git
+[submodule "DAA/Convex-Hull"]
+	path = DAA/Convex-Hull
+	url = https://github.com/turkmavisi/Convex-Hull.git
