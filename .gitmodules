@@ -10,3 +10,6 @@
 [submodule "dsr"]
 	path = dsr
 	url = https://github.com/mek-x/dsr.git
+[submodule "osl/pydatastruct"]
+	path = osl/pydatastruct
+	url = git@github.com:fjavieralba/pydatastruct.git
